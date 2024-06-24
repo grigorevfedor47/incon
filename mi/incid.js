@@ -1,0 +1,1 @@
+lerp(startValue, endValue, fraction);
